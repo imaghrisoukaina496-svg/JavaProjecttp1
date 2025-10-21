@@ -1,2 +1,2 @@
 TP1:
-![Tp1](tp1.png)
+![tp1](capture/tp1.png)
